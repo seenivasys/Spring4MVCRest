@@ -8,9 +8,9 @@
     maxIdle="30"
     maxWait="10000"
     driverClassName="com.mysql.jdbc.Driver"
-    url="jdbc:mysql://localhost:3306/MobileDB"
-    username="admin"
-    password="password01"
+    url="jdbc:mysql://127.0.0.1:3306/ClaimsDB"
+    username="root"
+    password="password1"
     />
 
 </Context>
