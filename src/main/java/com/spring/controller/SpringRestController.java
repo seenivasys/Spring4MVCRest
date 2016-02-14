@@ -13,6 +13,12 @@ import org.springframework.web.bind.annotation.RestController;
 import com.spring.model.Participant;
 import com.spring.service.ParticipantService;
 
+/**
+ * This is a test
+ * 
+ * @author yellams
+ *
+ */
 @RestController
 public class SpringRestController {
 	
